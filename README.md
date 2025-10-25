@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11-blue">
+  <img src="https://img.shields.io/badge/LangChain-Active-green">
+  <img src="https://img.shields.io/badge/YOLOv8-Enabled-red">
+  <img src="https://img.shields.io/badge/Streamlit-App-orange">
+  <img src="https://img.shields.io/badge/License-MIT-lightgrey">
+</p>
+
 # 👋 Hi, I'm Akash J  
 
 🎯 **Aspiring Data Scientist & AI Engineer**  
