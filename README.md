@@ -26,9 +26,6 @@ With a strong engineering foundation in **Electronics and Communication** and a 
 🤖 [**AI Medical Scheduling Agent**](#)  
 Developed an intelligent scheduling system to optimize patient appointments using AI-based logic and workflow automation.  
 
-🌍 [**Food Desert Finder (Streamlit App)**](#)  
-Built a geospatial analytics tool using Folium and GeoPandas to visualize supermarket coverage and detect underserved zones across Brooklyn.  
-
 💼 [**AI Recruiter Agency**](#)  
 Developed a privacy-preserving recruiting assistant using Ollama, LangChain, and ChromaDB that automates resume parsing, skill extraction, and candidate screening through Generative AI.
 
@@ -70,4 +67,3 @@ Secured 🥈 **2nd Place** at Target Hackathon for developing a lightweight LLM-
 ---
 
 ⭐ _“Data tells stories. AI gives them meaning.”_  
-keep 
