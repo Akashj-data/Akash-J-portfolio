@@ -1,6 +1,6 @@
 # The AI Smart Checkout System project
 
- """# 🛒 AI Smart Checkout System
+ # 🛒 AI Smart Checkout System
 
 ## Overview
 The **AI Smart Checkout System** is an intelligent, AI-driven retail automation solution designed to streamline in-store checkout operations using computer vision, IoT, and machine learning.  
