@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Akash J  
 
 🎯 **Aspiring Data Scientist & AI Engineer**  
-💻 Electronics and Communication Engineer (ECE)  
+💻 Electronics and Communication Graduate (ECE)  
 🌍 Master’s Applicant in **Data Science & Artificial Intelligence — Germany (Summer 2026)**  
 
 ---
@@ -71,11 +71,4 @@ Secured 🥈 **2nd place** at Target Hackathon for developing a **lightweight LL
 
 ---
 
-### 🧾 Optional Visual Add-ons
-Add these **badges at the top** of your README for a more professional look:
-```markdown
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![LangChain](https://img.shields.io/badge/LangChain-Active-green)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-Enabled-red)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-orange)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
