@@ -1,10 +1,14 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11-blue">
-  <img src="https://img.shields.io/badge/LangChain-Active-green">
-  <img src="https://img.shields.io/badge/YOLOv8-Enabled-red">
-  <img src="https://img.shields.io/badge/Streamlit-App-orange">
-  <img src="https://img.shields.io/badge/License-MIT-lightgrey">
+  <img src="https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/LangChain-Active-00B050?style=for-the-badge&logo=chainlink&logoColor=white">
+  <img src="https://img.shields.io/badge/YOLOv8-Enabled-E41E26?style=for-the-badge&logo=yolo&logoColor=white">
+  <img src="https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-ML%20Model-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenCV-Vision%20AI-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F1502F?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge&logo=book&logoColor=black">
 </p>
+
 
 # 👋 Hi, I'm Akash J  
 
