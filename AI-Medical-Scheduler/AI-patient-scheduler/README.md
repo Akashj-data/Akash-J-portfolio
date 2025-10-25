@@ -14,4 +14,4 @@ streamlit run app/streamlit_app.py
 
 ## Deliverables mapping
 - **Technical approach (PDF)** → summarize this architecture + choices.
-- **Code ZIP** → this repo with notes + tests.
+- **Code Files** → this repo with notes + tests.
