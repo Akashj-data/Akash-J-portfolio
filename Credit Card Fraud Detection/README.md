@@ -48,7 +48,7 @@ pip install pandas numpy scikit-learn matplotlib
 # Run the training script
 python src/fraud_detection.py
 
-Dataset
+Dataset:
 
 Dataset Source: Kaggle - Credit Card Fraud Detection
 
