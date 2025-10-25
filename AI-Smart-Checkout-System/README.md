@@ -1,5 +1,3 @@
-# The AI Smart Checkout System project
-
  # 🛒 AI Smart Checkout System
 
 ## Overview
