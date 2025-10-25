@@ -13,8 +13,6 @@
 # 👋 Hi, I'm Akash J  
 
 🎯 **Aspiring Data Scientist & AI Engineer**  
-💻 Electronics and Communication Graduate (ECE)  
-🌍 Master’s Applicant in **Data Science & Artificial Intelligence — Germany (Summer 2026)**  
 
 ---
 
