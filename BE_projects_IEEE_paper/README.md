@@ -1,4 +1,4 @@
-# BE Final-Year Project Portfolio – Akash J
+# BE Final-Year Project and Mini Project – Akash J
 
 This folder contains the two engineering projects completed during my Bachelor of Engineering (ECE).  
 These projects serve as evidence of my independent technical and research scientific work. 
