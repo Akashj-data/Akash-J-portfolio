@@ -34,3 +34,14 @@ Implemented using sensor integration, embedded programming, and basic robotics c
 
 These two projects represent my core engineering work during my bachelor’s degree and demonstrate  
 my ability to independently execute technical and research-oriented projects.
+
+---
+
+## 📂 Additional AI, Machine Learning, and Data Science Projects
+
+Along with my final-year engineering projects, I have completed multiple AI/ML/Data Science projects demonstrating skills in Machine Learning, Deep Learning, Computer Vision, LangChain, Streamlit, and real-time AI systems.
+
+You can view all my AI/DS projects here:
+
+🔗 **AI & DS Portfolio:**  
+https://github.com/Akashj-data/Akash-J-portfolio
